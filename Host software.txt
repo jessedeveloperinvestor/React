@@ -1,0 +1,8 @@
+Open the directory of this text file, open the terminal and run:
+-npm install
+	then
+-npm start
+
+The software address:
+
+https://localhost:7777
